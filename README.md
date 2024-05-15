@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# CS411-Project
+
+Prerequisites Node.js and npm installed on your machine
+
+Clone this repository to your local machine:
+
+Navigate to the college-kitchen directory: cd college-kitchen
+
+Install dependencies using npm: npm install
+
+Once you've installed and configured the app, you can run it using the following command: npm start
+
+This will start the development server and open the app in your default web browser.
+>>>>>>> origin/main
